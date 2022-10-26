@@ -22,10 +22,10 @@ arrayTwo = [10, 8, 5, 15, 2, 12, 11, 94, 81] <br>
 
 Sample output: true (Both arrays represent the BST below)
 
-                        10 <br>
-                     /      \ <br>
-                   8        15 <br> 
-                  /      /     \ <br>
-                 5      12     94 <br>
-                /      /      / <br>
-               2      11     81 <br>
+                        10 
+                     /      \ 
+                   8        15 
+                  /      /     \ 
+                 5      12     94 
+                /      /      / 
+               2      11     81 
